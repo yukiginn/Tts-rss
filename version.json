@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "2.5.4",
-  "updatedAt": "2026-11-25 12:50",
-  "releaseNotes": "- Tái cấu trúc liên kết Tu Tiên theo kiến trúc Server-Authoritative Heartbeat (chống gửi dồn phút lỗi).\n- Thêm cài đặt tải chống chặn (Tàng hình / Cân bằng / Nhanh / Tùy chỉnh) và Proxy riêng / Xoay vòng Proxy theo từng trang web.\n- Sửa lỗi xóa bài đề cử của Admin và hiển thị cảnh giới thực của người đăng cho cả khách chưa đăng nhập.\n- Tự động kiểm tra cập nhật ứng dụng & plugin nguồn truyện mỗi khi mở app.\n- Sửa lỗi giao diện nhãn Local Cache và tối ưu đăng nhập Google.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.4/TruyenTTS-v2.5.4.apk"
+  "versionCode": 37,
+  "versionName": "2.5.5",
+  "updatedAt": "2026-11-25 16:00",
+  "releaseNotes": "- Nâng cấp hệ thống VIP: hoàn thiện khóa quyền cho Dịch AI Offline, Tải hàng loạt > 50 chương & Cá nhân hóa VIP; hiển thị nhãn VIP vàng kim nổi bật dễ phân biệt.\n- Nâng cấp menu ấn giữ truyện ở Tủ truyện: thêm đủ thao tác Tải 50 chương / Tải toàn bộ, Xuất EPUB/PDF, Dịch AI Offline, Dịch Online Gemini & Tinh chỉnh Convert mượt.\n- Tối ưu Dịch & Tinh chỉnh 1 chạm: tự tải ngầm chống chặn (theo Proxy & cấu hình từng trang), tự lưu Offline rồi dịch/tinh chỉnh thẳng cho cả truyện chưa từng đọc.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.5/TruyenTTS-v2.5.5.apk"
 }
