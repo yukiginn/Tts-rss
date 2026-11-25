@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "2.5.5",
-  "updatedAt": "2026-11-25 16:00",
-  "releaseNotes": "- Nâng cấp hệ thống VIP: hoàn thiện khóa quyền cho Dịch AI Offline, Tải hàng loạt > 50 chương & Cá nhân hóa VIP; hiển thị nhãn VIP vàng kim nổi bật dễ phân biệt.\n- Nâng cấp menu ấn giữ truyện ở Tủ truyện: thêm đủ thao tác Tải 50 chương / Tải toàn bộ, Xuất EPUB/PDF, Dịch AI Offline, Dịch Online Gemini & Tinh chỉnh Convert mượt.\n- Tối ưu Dịch & Tinh chỉnh 1 chạm: tự tải ngầm chống chặn (theo Proxy & cấu hình từng trang), tự lưu Offline rồi dịch/tinh chỉnh thẳng cho cả truyện chưa từng đọc.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.5/TruyenTTS-v2.5.5.apk"
+  "versionCode": 38,
+  "versionName": "2.5.6",
+  "updatedAt": "2026-11-25 19:55",
+  "releaseNotes": "- Đồng bộ Google Drive VIP & an toàn hơn: chỉ dành riêng cho Thành viên VIP (khách thường sao lưu/khôi phục trên bộ nhớ máy), đóng gói qua file tạm chống hỏng ZIP, khóa chống ghi đè đồng thời và cảnh báo rõ nếu hết quyền ghi URI.\n- Đổi tên module Xem Phim → Video & lưu sẵn kho nguồn mặc định (yukiginn/nguon.git) để tự động nạp plugin Video YouTube ngay lần mở đầu.\n- Tách module Tu Luyện thành gói rời trên Git: chỉ tải về và chạy khi người dùng chủ động kích hoạt (không chạy nền Firestore/nặng máy khi chưa dùng), hỗ trợ gỡ sạch để giải phóng bộ nhớ.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.6/TruyenTTS-v2.5.6.apk"
 }
