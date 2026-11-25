@@ -1,7 +1,7 @@
 {
   "versionCode": 36,
   "versionName": "2.5.4",
-  "updatedAt": "2026-11-25 11:45",
-  "releaseNotes": "- Tái cấu trúc liên kết thưởng Tu Tiên theo kiến trúc Server-Authoritative Heartbeat (chống gửi dồn phút lỗi).\n- Sửa lỗi xóa bài đề cử của Admin và hiển thị cảnh giới thực của người đăng cho cả khách chưa đăng nhập.\n- Tự động kiểm tra cập nhật ứng dụng & plugin nguồn truyện mỗi khi mở app.\n- Sửa lỗi giao diện hiển thị dung lượng Local Cache.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/latest"
+  "updatedAt": "2026-11-25 12:50",
+  "releaseNotes": "- Tái cấu trúc liên kết Tu Tiên theo kiến trúc Server-Authoritative Heartbeat (chống gửi dồn phút lỗi).\n- Thêm cài đặt tải chống chặn (Tàng hình / Cân bằng / Nhanh / Tùy chỉnh) và Proxy riêng / Xoay vòng Proxy theo từng trang web.\n- Sửa lỗi xóa bài đề cử của Admin và hiển thị cảnh giới thực của người đăng cho cả khách chưa đăng nhập.\n- Tự động kiểm tra cập nhật ứng dụng & plugin nguồn truyện mỗi khi mở app.\n- Sửa lỗi giao diện nhãn Local Cache và tối ưu đăng nhập Google.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.4/TruyenTTS-v2.5.4.apk"
 }
