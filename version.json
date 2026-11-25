@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "2.5.6",
-  "updatedAt": "2026-11-25 19:55",
-  "releaseNotes": "- Đồng bộ Google Drive VIP & an toàn hơn: chỉ dành riêng cho Thành viên VIP (khách thường sao lưu/khôi phục trên bộ nhớ máy), đóng gói qua file tạm chống hỏng ZIP, khóa chống ghi đè đồng thời và cảnh báo rõ nếu hết quyền ghi URI.\n- Đổi tên module Xem Phim → Video & lưu sẵn kho nguồn mặc định (yukiginn/nguon.git) để tự động nạp plugin Video YouTube ngay lần mở đầu.\n- Tách module Tu Luyện thành gói rời trên Git: chỉ tải về và chạy khi người dùng chủ động kích hoạt (không chạy nền Firestore/nặng máy khi chưa dùng), hỗ trợ gỡ sạch để giải phóng bộ nhớ.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.6/TruyenTTS-v2.5.6.apk"
+  "versionCode": 39,
+  "versionName": "2.5.7",
+  "updatedAt": "2026-11-25 21:35",
+  "releaseNotes": "- Sửa triệt để lỗi vào Huyền Thiên bị ra nhân vật khác: truyền googleIdToken chính chủ qua cầu nối TruyenTTSBridge, tự động làm mới token, tự dọn WebView storage/IndexedDB lệch UID và thêm nút Đồng bộ nhân vật chính trên thanh công cụ.\n- Sửa triệt để hệ thống nhịp online (/api/tts/heartbeat): chuyển về endpoint thật https://huyenthiendailuc.ai.studio, tự làm mới Firebase ID Token khi gặp HTTP 401 (nghe liên tục > 1 giờ), tôn trọng nextAllowedInMs khi TOO_SOON và giữ phiên TTS liền mạch khi tự chuyển chương.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.7/TruyenTTS-v2.5.7.apk"
 }
