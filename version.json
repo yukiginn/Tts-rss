@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "2.6.1",
-  "updatedAt": "2026-11-26 19:15",
-  "releaseNotes": "- Nâng cấp bộ đọc mục lục phân trang cho các nguồn truyện di động (hỗ trợ đầy đủ toàn bộ danh sách chương).\n- Hỗ trợ nhận diện trạng thái truyện hoàn thành tốt hơn cho các nguồn tiếng Trung Phồn thể và làm sạch nội dung chương gọn gàng hơn.\n- Tương thích trọn vẹn với các nguồn mới trên Kho nguồn: Phi Lô (Faloo), Đài Loan Tiểu Thuyết (XSW.tw) và UU Khán Thư (UUkanshu).",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.1/TruyenTTS-v2.6.1.apk"
+  "versionCode": 44,
+  "versionName": "2.6.2",
+  "updatedAt": "2026-11-26 20:15",
+  "releaseNotes": "- Khắc phục lỗi chứng chỉ SSL (CertPathValidatorException) khi kết nối các nguồn truyện và ảnh bìa thiếu chứng chỉ trung gian như Đài Loan Tiểu Thuyết (XSW.tw).\n- Tự động tải bổ sung chứng chỉ trung gian chuẩn trình duyệt mà vẫn giữ nguyên độ an toàn xác thực HTTPS của Android.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.2/TruyenTTS-v2.6.2.apk"
 }
