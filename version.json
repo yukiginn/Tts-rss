@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "2.5.7",
-  "updatedAt": "2026-11-25 21:35",
-  "releaseNotes": "- Sửa triệt để lỗi vào Huyền Thiên bị ra nhân vật khác: truyền googleIdToken chính chủ qua cầu nối TruyenTTSBridge, tự động làm mới token, tự dọn WebView storage/IndexedDB lệch UID và thêm nút Đồng bộ nhân vật chính trên thanh công cụ.\n- Sửa triệt để hệ thống nhịp online (/api/tts/heartbeat): chuyển về endpoint thật https://huyenthiendailuc.ai.studio, tự làm mới Firebase ID Token khi gặp HTTP 401 (nghe liên tục > 1 giờ), tôn trọng nextAllowedInMs khi TOO_SOON và giữ phiên TTS liền mạch khi tự chuyển chương.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.7/TruyenTTS-v2.5.7.apk"
+  "versionCode": 40,
+  "versionName": "2.5.8",
+  "updatedAt": "2026-11-26 13:30",
+  "releaseNotes": "- Cải tiến giao diện gọn gàng hơn ở tab Cài đặt và menu ấn giữ Tủ truyện.\n- Tối ưu màu sắc hài hòa, dịu mắt hơn khi sử dụng chế độ tối (Dark Mode).\n- Nâng cấp đăng nhập/đăng ký tài khoản (hỗ trợ Email & Mật khẩu, đổi mật khẩu, quên mật khẩu) và tăng cường bảo mật hồ sơ.\n- Tối ưu trải nghiệm Tu Luyện và độ ổn định ứng dụng.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.8/TruyenTTS-v2.5.8.apk"
 }
