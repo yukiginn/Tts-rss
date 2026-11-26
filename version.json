@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "2.5.9",
-  "updatedAt": "2026-11-26 15:05",
-  "releaseNotes": "- Tối ưu tốc độ tải và hiển thị đầy đủ thông tin truyện, ảnh bìa, danh sách chương ở các nguồn truyện mới.\n- Cải thiện cơ chế tự động cập nhật nguồn truyện nhanh hơn khi mở ứng dụng.\n- Sửa lỗi nhỏ và nâng cao độ ổn định khi đọc truyện.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.9/TruyenTTS-v2.5.9.apk"
+  "versionCode": 42,
+  "versionName": "2.6.0",
+  "updatedAt": "2026-11-26 16:05",
+  "releaseNotes": "- Nâng cấp tải truyện Offline: tự động thử lại khi gián đoạn/mất mạng và khôi phục tiến trình tải bị ngắt.\n- Đánh dấu chương VIP trên mục lục và hiển thị báo cáo chi tiết chương VIP/lỗi sau khi tải.\n- Thêm thông báo kiểm tra cập nhật nguồn truyện kèm chi tiết thay đổi để người dùng chủ động cập nhật.\n- Cảnh báo giới hạn tốc độ tải cho các nguồn khắt khe và mặc định tắt Proxy.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.0/TruyenTTS-v2.6.0.apk"
 }
