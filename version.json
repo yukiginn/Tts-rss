@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "2.5.8",
-  "updatedAt": "2026-11-26 13:30",
-  "releaseNotes": "- Cải tiến giao diện gọn gàng hơn ở tab Cài đặt và menu ấn giữ Tủ truyện.\n- Tối ưu màu sắc hài hòa, dịu mắt hơn khi sử dụng chế độ tối (Dark Mode).\n- Nâng cấp đăng nhập/đăng ký tài khoản (hỗ trợ Email & Mật khẩu, đổi mật khẩu, quên mật khẩu) và tăng cường bảo mật hồ sơ.\n- Tối ưu trải nghiệm Tu Luyện và độ ổn định ứng dụng.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.8/TruyenTTS-v2.5.8.apk"
+  "versionCode": 41,
+  "versionName": "2.5.9",
+  "updatedAt": "2026-11-26 15:05",
+  "releaseNotes": "- Tối ưu tốc độ tải và hiển thị đầy đủ thông tin truyện, ảnh bìa, danh sách chương ở các nguồn truyện mới.\n- Cải thiện cơ chế tự động cập nhật nguồn truyện nhanh hơn khi mở ứng dụng.\n- Sửa lỗi nhỏ và nâng cao độ ổn định khi đọc truyện.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.5.9/TruyenTTS-v2.5.9.apk"
 }
