@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "2.6.0",
-  "updatedAt": "2026-11-26 16:05",
-  "releaseNotes": "- Nâng cấp tải truyện Offline: tự động thử lại khi gián đoạn/mất mạng và khôi phục tiến trình tải bị ngắt.\n- Đánh dấu chương VIP trên mục lục và hiển thị báo cáo chi tiết chương VIP/lỗi sau khi tải.\n- Thêm thông báo kiểm tra cập nhật nguồn truyện kèm chi tiết thay đổi để người dùng chủ động cập nhật.\n- Cảnh báo giới hạn tốc độ tải cho các nguồn khắt khe và mặc định tắt Proxy.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.0/TruyenTTS-v2.6.0.apk"
+  "versionCode": 43,
+  "versionName": "2.6.1",
+  "updatedAt": "2026-11-26 19:15",
+  "releaseNotes": "- Nâng cấp bộ đọc mục lục phân trang cho các nguồn truyện di động (hỗ trợ đầy đủ toàn bộ danh sách chương).\n- Hỗ trợ nhận diện trạng thái truyện hoàn thành tốt hơn cho các nguồn tiếng Trung Phồn thể và làm sạch nội dung chương gọn gàng hơn.\n- Tương thích trọn vẹn với các nguồn mới trên Kho nguồn: Phi Lô (Faloo), Đài Loan Tiểu Thuyết (XSW.tw) và UU Khán Thư (UUkanshu).",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.1/TruyenTTS-v2.6.1.apk"
 }
