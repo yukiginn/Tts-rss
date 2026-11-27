@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "2.6.2",
-  "updatedAt": "2026-11-26 20:15",
-  "releaseNotes": "- Khắc phục lỗi chứng chỉ SSL (CertPathValidatorException) khi kết nối các nguồn truyện và ảnh bìa thiếu chứng chỉ trung gian như Đài Loan Tiểu Thuyết (XSW.tw).\n- Tự động tải bổ sung chứng chỉ trung gian chuẩn trình duyệt mà vẫn giữ nguyên độ an toàn xác thực HTTPS của Android.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.2/TruyenTTS-v2.6.2.apk"
+  "versionCode": 45,
+  "versionName": "2.6.3",
+  "updatedAt": "2026-11-27 12:45",
+  "releaseNotes": "- Nâng cấp hiển thị ảnh bìa cho các truyện không có ảnh thumb hoặc ảnh bìa bị lỗi: tự động thiết kế bìa sách Typography cổ điển với 12 tông màu riêng theo tên truyện, gáy sách, khung chỉ vàng, tên truyện & tác giả sắc nét.\n- Đồng bộ hiển thị mượt mà trên tất cả màn hình: Khám phá, Tìm kiếm, Chi tiết truyện, Tủ truyện, Lịch sử, Đề cử và Trình tải Offline.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.3/TruyenTTS-v2.6.3.apk"
 }
