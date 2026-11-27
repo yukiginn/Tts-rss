@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "2.6.3",
-  "updatedAt": "2026-11-27 12:45",
-  "releaseNotes": "- Nâng cấp hiển thị ảnh bìa cho các truyện không có ảnh thumb hoặc ảnh bìa bị lỗi: tự động thiết kế bìa sách Typography cổ điển với 12 tông màu riêng theo tên truyện, gáy sách, khung chỉ vàng, tên truyện & tác giả sắc nét.\n- Đồng bộ hiển thị mượt mà trên tất cả màn hình: Khám phá, Tìm kiếm, Chi tiết truyện, Tủ truyện, Lịch sử, Đề cử và Trình tải Offline.",
-  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.3/TruyenTTS-v2.6.3.apk"
+  "versionCode": 46,
+  "versionName": "2.6.4",
+  "updatedAt": "2026-11-27 13:45",
+  "releaseNotes": "- Tối ưu giao diện Dịch Online Gemini gọn gàng hơn: thu gọn mặc định mục Thể loại & Xưng hô, Model và danh sách API Key (ấn để mở rộng khi cần).\n- Bổ sung các model miễn phí hạn mức cao như Gemini 3.5 Flash-Lite, Gemini 3.1 Flash-Lite (~500 lượt/ngày) và 2.5 Flash-Lite.\n- Gộp trọn chương trong 1 lần gọi API (hạn chế chia nhỏ) và giới hạn an toàn tối đa 10 lượt/phút để giảm lỗi 429/503.\n- Tự động chuyển ngay sang model hoặc key khác khi lỗi; nếu tất cả đều lỗi sẽ tự động dùng AI Offline dịch dự phòng chương đó.",
+  "downloadUrl": "https://github.com/yukiginn/Tts-rss/releases/download/v2.6.4/TruyenTTS-v2.6.4.apk"
 }
